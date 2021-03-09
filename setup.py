@@ -9,13 +9,10 @@ setup(
     url='https://camus.chat/',
     download_url='https://pypi.org/project/camus-chat/',
     project_urls={
-        'Code': 'https://github.com/mrgnr/camus',
-        'Issue tracker': 'https://github.com/mrgnr/camus/issues',
-        'Documentation': 'https://docs.camus.chat/',
+        
     },
-    author='Morgan Robertson',
-    author_email='mrgnr@pm.me',
-    license='AGPL-3.0-or-later',
+    author='Handa',
+    author_email='e',
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
